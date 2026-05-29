@@ -1,0 +1,50 @@
+No Old Data
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 1
+
+Amount: 500
+Category: Food
+Date (YYYY-MM-DD): 2026-05-28
+Expense Added!
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 1
+
+Amount: 1200
+Category: Travel
+Date (YYYY-MM-DD): 2026-05-15
+Expense Added!
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 2
+
+500.0 | Food | 2026-05-28
+1200.0 | Travel | 2026-05-15
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 3
+
+Enter Month: 5
+Total Expense = 1700.0
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 4
+
+Highest Category: Travel = 1200.0
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 5
+Saved!
+
+1.Add  2.Display  3.Report
+4.Highest  5.Save  6.Exit
+Choice: 6
+
+Exiting...

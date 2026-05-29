@@ -1,0 +1,27 @@
+Enter Cover File: cover.txt
+
+Reading Cover File...
+Cover File Loaded Successfully!
+
+Cover Text:
+This is a normal text file used as cover text for hiding secret data.
+
+Enter Secret Message: Welcome to Java Project
+
+Converting Secret Message into Binary...
+Binary Conversion Completed!
+
+Encoding Secret Message Using Invisible Unicode Characters...
+
+Message Hidden Successfully!
+
+Encoded File Saved As: encoded.txt
+
+Reading Encoded File...
+
+Decoding Hidden Message...
+
+Retrieved Hidden Message:
+Welcome to Java Project
+
+Program Executed Successfully!
