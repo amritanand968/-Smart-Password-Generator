@@ -1,4 +1,4 @@
-# Java-Innovative-Projects
+# Java-Innovative-Project
 
 Included Projects
 
